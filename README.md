@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Ömer.
 
-📫 How to reach me: ...
+📫 How to reach me:
+
+E-mail: omerkayan51@gmail.com 
+LinkedIn: www.linkedin.com/in/omerkayan/
 
 <!--
 **omerkayan/omerkayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

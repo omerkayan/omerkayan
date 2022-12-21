@@ -2,11 +2,8 @@
 
 📫 How to reach me:
 
-E-mail: omerkayan51@gmail.com 
-
 LinkedIn: www.linkedin.com/in/omerkayan/
 
-Personal website: https://www.omerkayan.com
 <!--
 **omerkayan/omerkayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
